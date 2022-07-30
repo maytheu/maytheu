@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maytheu
-- 👀 I’m interested in Typescript,
-- 🌱 I’m currently and always learning ...
-- 💞️ I’m looking to collaborate on Typescript
+- 👀 I’m a full stack web developer (ReactJs, Angular and Nodejs),
+- 🌱 I speak, write and think Typescript ...
+- 💞️ I’m open to collaborate
 
 <!---
 maytheu/maytheu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
