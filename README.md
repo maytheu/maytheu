@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maytheu
 - 👀 I’m a full stack web developer (ReactJs, Angular and Nodejs),
-- 🌱 I speak, write and think Typescript ...
+- 🌱 I think, speak and write Typescript ...
 - 💞️ I’m open to collaborate
 
 <!---
